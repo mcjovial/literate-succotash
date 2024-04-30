@@ -8,6 +8,9 @@ const App = () => (
     </div>
     <Services />
     <Transactions />
+    <div>
+      <iframe src="https://consentprotect.com/declaration/aadc5a46-d245-4936-98fc-58f1ee680ed5" title="cookie decalration" width="100%" height="100%" />
+    </div>
     <Footer />
   </div>
 );
