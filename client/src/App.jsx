@@ -9,7 +9,7 @@ const App = () => (
     <Services />
     <Transactions />
     <div>
-      <iframe src="https://consentprotect.com/declaration/aadc5a46-d245-4936-98fc-58f1ee680ed5" title="cookie decalration" width="100%" height="100%" />
+      <iframe src="https://consentprotect.com/declaration/01c47c49-4226-4d9c-bae5-9ba85499af18" width="100%" height="100%" title="cookie decalration"/>
     </div>
     <Footer />
   </div>
